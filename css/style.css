@@ -1,0 +1,16 @@
+.box{
+	background-color: red ;
+	height: 100px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+/*.box-2{
+	height: 200px;
+	background-color: black;
+ }*/
+
+.c-height{
+	height: 300px;
+	background-color: #ddd;
+}
